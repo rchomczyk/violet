@@ -13,5 +13,5 @@ maven("https://repo.shiza.dev/releases")
 ##### Add dependency
 
 ```kotlin
-implementation("dev.shiza:violet:1.0.0") 
+implementation("dev.shiza:violet:1.0.0")
 ```
